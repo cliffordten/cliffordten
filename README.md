@@ -2,7 +2,7 @@
     <b>Welcome to my GitHub Profile!</b><br><br>
     <i>
         I'm Bisynerd - (Teneng Clifford)<br>
-        I work with anything from web apps, technical content, marketing sites to digital personal assistants powered by AI.
+        I work with anything from web apps, mobile apps, devOps, as well as personalized business AI Assistance.
     </i><br>
     <a href="https://www.gwislab.com">
         <img src="https://img.shields.io/badge/gwislab.com-red" alt="My Website">
