@@ -1,35 +1,19 @@
-<p align="center">
+<p>
     <b>Welcome to my GitHub Profile!</b><br><br>
     <i>
         I'm Bisynerd - (Teneng Clifford)<br>
-        I work with anything from web apps, mobile apps, devOps, as well as personalized business AI Assistance.<br>
-        I'm an experienced engineer who have worked with a variety of technologies who is always looking to learn anything new.
+        An experienced software engineer with a passion for creating innovative solutions. I have a strong background in web development, mobile app development, and software engineering. I have experience working with various technologies and frameworks.
+        Using Nextjs / React for web, React Native for mobile and NestJS for handling the server, However I have a strong knowledge of Java programming. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
     </i><br>
     <a href="https://www.gwislab.com">
         <img src="https://img.shields.io/badge/gwislab.com-red" alt="My Website">
     </a>
-    <a href="https://blog.logrocket.com/author/cliffordten/">
-        <img src="https://img.shields.io/badge/Paid Articles-LogRocket articles-purple" alt="My Website">
-    </a>
-    <a href="https://www.linkedin.com/in/cliffordten">
+    <a href="https://www.linkedin.com/in/bisynerd">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
 </p>
 
-<h2 align="center">Languages</a>
-<p align="center">
-  <a href="https://github.com/cliffordten?tab=repositories&q=&type=&language=javascript&sort=">
-    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript" />
-  </a>
-  <a href="https://github.com/cliffordten?tab=repositories&q=&type=&language=typescript&sort=">
-    <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript" />
-  </a> 
-   <a href="https://github.com/cliffordten?tab=repositories&q=&type=&language=rust&sort=">
-    <img src="https://img.shields.io/badge/rust-orange?style=for-the-badge&logo=rust" />
-  </a>
-</p>
-
-<p align="center">
+<p>
   <a href="https://github.com/cliffordten">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cliffordten&theme=transparent" />
   </a>
@@ -44,12 +28,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/cliffordten">
-    <img src="https://komarev.com/ghpvc/?username=cliffordten&color=red&style=flat" />
-  </a>
-</p>
-<!--
 
 - 🔭 I’m currently working on a side hustle. (still to be launched) ...
 - 🌱 I’m currently learning smart contracts ...
@@ -58,4 +36,3 @@
 - 📫 How to reach me: bisynerd on all social media, email: bisynerd@gwislab.com / cliffordteng5@gmail.com ...
 - 😄 Pronouns: he, him ...
 - ⚡ Fun fact: Jesus has a sense of humor ...
--->
