@@ -2,7 +2,7 @@
     <b>Hello 👋🏻</b><br><br>
     I'm Bisynerd - (Teneng Clifford)<br><br>
     <i>
-        An experienced software engineer with a passion for creating innovative solutions. I have a strong background in web development, mobile app development, and software engineering. I have experience working with various technologies and frameworks.
+        An experienced software engineer with a passion for creating innovative solutions. I have a strong background in web dev, mobile app dev, and software engineering. I have experience working with various technologies and frameworks.
         Using Nextjs / React for web, React Native for mobile and NestJS for handling the server, However I have a strong knowledge of Java and Python programming. I am always eager to learn new technologies and stay up-to-date with the latest industry trends.
     </i><br><br><br>
     <a href="https://www.gwislab.com">
